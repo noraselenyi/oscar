@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/oscar/static/css/main.1f38f93a.css",
+    "main.js": "/oscar/static/js/main.3253bef8.js",
+    "static/media/logo_oscars.jpg": "/oscar/static/media/logo_oscars.d6af0f19abfee978021f.jpg",
+    "index.html": "/oscar/index.html",
+    "main.1f38f93a.css.map": "/oscar/static/css/main.1f38f93a.css.map",
+    "main.3253bef8.js.map": "/oscar/static/js/main.3253bef8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f38f93a.css",
+    "static/js/main.3253bef8.js"
+  ]
+}
